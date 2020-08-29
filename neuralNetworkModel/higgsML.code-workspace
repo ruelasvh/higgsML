@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../ml-coursera-python"
+	},
+	{
+		"path": "../../ml-coursera-octave"
+	}
+],
+  "settings": {}
+}
